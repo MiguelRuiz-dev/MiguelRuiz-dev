@@ -9,6 +9,10 @@
 
 ### Sobre mim:
 
+Profissional dedicado desenvolvendo experiência na indústria, atualmente atuando como Comprador na Pedrinco. Inicialmente ingressando como Assistente Administrativo, após um ano fui promovido à função de Comprador, onde continuo a trazer inovação e eficiência para as operações da empresa.
+
+Sou motivado pela variedade e desafios do meu trabalho, e estou pronto para enfrentar novos desafios que me permitam crescer profissionalmente e contribuir significativamente para o sucesso da equipe.
+
 Sou **desenvolvedor** com experiência em diversas tecnologias, incluindo **Python**, **Git**, **GitHub**, **HTML** e **CSS**. Tenho como foco criar soluções eficientes e funcionais, sempre buscando melhorar minhas habilidades e me atualizar sobre as melhores práticas do mercado.
 
 ---
