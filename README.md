@@ -13,7 +13,7 @@ Profissional dedicado desenvolvendo experiência na indústria, atualmente atuan
 
 Sou motivado pela variedade e desafios do meu trabalho, e estou pronto para enfrentar novos desafios que me permitam crescer profissionalmente e contribuir significativamente para o sucesso da equipe.
 
-Sou **desenvolvedor** com experiência em diversas tecnologias, incluindo **Python**, **Git**, **GitHub**, **HTML** e **CSS**. Tenho como foco criar soluções eficientes e funcionais, sempre buscando melhorar minhas habilidades e me atualizar sobre as melhores práticas do mercado.
+Sou desenvolvedor e estou aprendendo e me aprimorando em diversas tecnologias, incluindo **Python**, **Git**, **GitHub**, **HTML** e **CSS**. Tenho como foco criar soluções eficientes e funcionais, sempre buscando melhorar minhas habilidades e me atualizar sobre as melhores práticas do mercado.
 
 ---
 
