@@ -36,4 +36,4 @@ Sou desenvolvedor e estou aprendendo e me aprimorando em diversas tecnologias, i
 ### Contato
 
 - **LinkedIn**: [Miguel Ruiz - LinkedIn](https://www.linkedin.com/in/miguel-lima-6239a8252/)
-- **Email**: [miguel.ruiz.dev@gmail.com](mailto:miguel.ruiz.dev@gmail.com)
+- **Email**: [miguellima226@gmail.com](mailto:miguellima226@gmail.com)
